@@ -1,0 +1,26 @@
+#stat{
+    padding-top: 20px;
+}
+
+.row{
+    padding: 0 !important;
+}
+
+li{
+    margin-top: 5px;
+    border-radius: 5px !important;
+}
+
+.h-200{
+    height: 150px !important
+}
+
+.scroll-right{
+    display: flex;
+    direction: rtl;
+    text-align: left !important
+}
+
+.r-180{ 
+    transform: rotate(180deg) !important    
+}
